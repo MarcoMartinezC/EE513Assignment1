@@ -1,0 +1,3 @@
+*.NEF
+target_images/
+smoketest/
